@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.event-app {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.event-container1 {
+  width: 60%;
+  background-color: #323f4b;
+  min-height: 100vh;
+  background-size: cover;
+  max-height: auto;
+}
+.event-heading {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  margin-left: 80px;
+}
+.event-list-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.event-container2 {
+  width: 35%;
+  background-color: #ffffff;
+  min-height: 100vh;
+  background-size: cover;
+  max-height: auto;
+}

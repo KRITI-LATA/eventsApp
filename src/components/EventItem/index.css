@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.event-button {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.active {
+  border: 2px solid #0967d2;
+  border-radius: 8px;
+}
+.event-image {
+  width: 350px;
+  height: 250px;
+}
+.events-name {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 500;
+  line-height: 1px;
+}
+.event-country {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 18px;
+}
